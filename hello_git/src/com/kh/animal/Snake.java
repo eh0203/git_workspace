@@ -7,4 +7,7 @@ public class Snake {
 		System.out.println("Ssssss");
 	}
 
+	public void poisonAttack() {
+		System.out.println("독침 물기");
+	}
 }
