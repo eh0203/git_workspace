@@ -12,6 +12,9 @@ public class Helloworld {
 		dog.bark();
 		cat.cry();
 		
+		Snake snake = new Snake();
+		snake.move();
+		
 	}
 
 }
